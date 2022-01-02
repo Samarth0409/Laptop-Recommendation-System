@@ -1,5 +1,7 @@
 # Laptop-Recommendation-System
+
 Project on Social Info Network 
+
 #Introduction
 
 Laptop has become one of the most essential and used items in our daily life. With the overwhelming amount of specifications and brand names on the market, it becomes difficult for laptop makers to sell their products and for customers to pick their laptop. The Laptop Recommendation System (LRS) is a web-based application is intended to provide customers and the viewers with all the information about the laptops available online which can be selected by the user and can be viewed without going to the actual showroom physically. 
